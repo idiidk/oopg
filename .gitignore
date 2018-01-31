@@ -1,5 +1,10 @@
+# mvn
 target/
 
+# Shady Jar creation
+dependency-reduced-pom.xml
+
+# IntelliJ
 .idea/
 *.iml
 
