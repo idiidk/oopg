@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>nl.han.ica</groupId>
     <artifactId>oopg</artifactId>
-    <version>2.0.0</version>
+    <version>3.1.0</version>
     <name>OOPD Game Engine</name>
 
     <properties>
@@ -95,14 +95,15 @@
         </dependency>
         <!-- PROCESSING -->
         <dependency>
-            <groupId>processing</groupId>
+            <groupId>org.processing</groupId>
             <artifactId>core</artifactId>
-            <version>2.2.1</version>
+            <version>3.3.7</version>
         </dependency>
+
         <dependency>
             <groupId>processing</groupId>
             <artifactId>gifanimation</artifactId>
-            <version>1.0</version>
+            <version>3.0</version>
         </dependency>
         <dependency>
             <groupId>processing</groupId>
@@ -139,14 +140,12 @@
             <artifactId>tritonus_share</artifactId>
             <version>1.0</version>
         </dependency>
-
     </dependencies>
-
 
     <repositories>
         <repository>
             <id>processing-maven-repo</id>
-            <url>https://raw.github.com/ddoa/processing-maven-repo/master/</url>
+            <url>https://raw.github.com/idiidk/processing-maven-repo/master/</url>
         </repository>
     </repositories>
 </project>

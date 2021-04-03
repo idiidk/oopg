@@ -1,7 +1,6 @@
 package nl.han.ica.oopg.objects;
 
 import gifAnimation.Gif;
-
 import processing.core.PApplet;
 import processing.core.PImage;
 
@@ -117,6 +116,7 @@ public class Sprite {
          */
         public static PImage loadImage(String fileName) {
             PApplet applet = new PApplet();
+            applet.sketchPath();
 
             if (fileName.endsWith(".gif")) {
                 Gif gifje = new Gif(applet, fileName);

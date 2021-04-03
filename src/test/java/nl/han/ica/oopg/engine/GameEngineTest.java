@@ -1,5 +1,6 @@
 package nl.han.ica.oopg.engine;
 
+import nl.han.ica.oopg.FakeGameEngine;
 import nl.han.ica.oopg.dashboard.Dashboard;
 import nl.han.ica.oopg.exceptions.GameEngineRuntimeException;
 import nl.han.ica.oopg.objects.GameObject;
@@ -32,7 +33,6 @@ public class GameEngineTest {
     public void setup()
     {
     	gameEngine = new FakeGameEngine();
-    	gameEngine.setView(new View(100, 100));
 
     	foo = new Foo(1,1,1,1);
         foo1 = new Foo(1,1,1,1);
@@ -319,20 +319,6 @@ public class GameEngineTest {
 //        gameEngine.mouseWheel(mouseEvent);
 //        assertEquals(50, foo.direction);
 //    }
-
-    private class FakeGameEngine extends GameEngine
-    {
-
-        @Override
-        public void setupGame() {
-
-        }
-
-        @Override
-        public void update() {
-
-        }
-    }
     
     private class Foo extends GameObject implements IKeyInput, IMouseInput {
 
