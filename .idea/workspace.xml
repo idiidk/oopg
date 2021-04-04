@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a393c791-29f8-4081-9fd2-845401534fcd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qfbyZgEVUAkX1D2elHPknjWq6X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="nl.han.ica.oopg" />
+      <recent name="nl.han.ica.oopg.engine" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nl.han.ica.oopg.dashboard" />
+      <recent name="nl.han.ica.oopg.objects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in oopg">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in oopg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oopg" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameEngineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oopg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.han.ica.oopg.engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.han.ica.oopg.engine" />
+      <option name="MAIN_CLASS_NAME" value="nl.han.ica.oopg.engine.GameEngineTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameEngineTest.mouseMovedShouldSetXAndY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oopg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.han.ica.oopg.engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.han.ica.oopg.engine" />
+      <option name="MAIN_CLASS_NAME" value="nl.han.ica.oopg.engine.GameEngineTest" />
+      <option name="METHOD_NAME" value="mouseMovedShouldSetXAndY" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameEngineTest.mousePressedShouldSetXYAndButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oopg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.han.ica.oopg.engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.han.ica.oopg.engine" />
+      <option name="MAIN_CLASS_NAME" value="nl.han.ica.oopg.engine.GameEngineTest" />
+      <option name="METHOD_NAME" value="mousePressedShouldSetXYAndButton" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nl.han.ica.oopg in oopg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oopg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.han.ica.oopg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.han.ica.oopg" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in oopg" />
+        <item itemvalue="JUnit.GameEngineTest" />
+        <item itemvalue="JUnit.GameEngineTest.mouseMovedShouldSetXAndY" />
+        <item itemvalue="JUnit.nl.han.ica.oopg in oopg" />
+        <item itemvalue="JUnit.GameEngineTest.mousePressedShouldSetXYAndButton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a393c791-29f8-4081-9fd2-845401534fcd" name="Default Changelist" comment="" />
+      <created>1617473849142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617473849142</updated>
+      <workItem from="1617473851551" duration="8243000" />
+      <workItem from="1617482155247" duration="1769000" />
+      <workItem from="1617486591323" duration="2544000" />
+      <workItem from="1617489444822" duration="1781000" />
+      <workItem from="1617533344337" duration="501000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
